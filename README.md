@@ -2,7 +2,7 @@
 
 ## Keymap
 
-https://github.com/miketronic/brkn-keyboard/assets/2554604/c3fed3f3-c46d-47f9-8319-7c291844036c
+![MM20](https://github.com/miketronic/brkn-keyboard/assets/2554604/c3fed3f3-c46d-47f9-8319-7c291844036c)
 
 The layout is a larger rendition of my MM20 (3 column) layout with the addition of side columms.  I have no issues with my 20 key layout but it's a BIG change for users and having some keys like tab and backspace on dedicated keys can be convenient.  Of course with custom firmware you are not locked into any specific layout.  If you only want to combo 2 letters (24 non-thumb keys, 26 letters!), then that's totally fine.
 
